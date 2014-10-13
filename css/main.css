@@ -10,6 +10,12 @@ body {
 	background-attachment: fixed;
 }
 
+@media screen and (max-width: 992px) {
+    body {
+        background-color:lightblue;
+    }
+}
+
 a:link, a:visited {
 	text-decoration: none;
 	color: #0000AA;
